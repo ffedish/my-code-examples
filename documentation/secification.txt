@@ -1,3 +1,4 @@
 this list is analog LinkedList<t> in System.Collection.Generic
 
-it contais all
+it contais all methods from original list
+you can see it in test script

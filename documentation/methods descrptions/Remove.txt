@@ -3,3 +3,5 @@ void Remove(MyLinkedListNode<T> value)
 void Remove(T value)
 
 remove value from list
+
+exceptions: ArgumentExeption()
