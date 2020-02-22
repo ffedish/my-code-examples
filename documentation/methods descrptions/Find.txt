@@ -1,0 +1,5 @@
+overloads:
+bool Find(MyLinkedListNode<T> value)
+bol Find(T value)
+
+return true, if list contains value, else return false

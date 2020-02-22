@@ -1,0 +1,3 @@
+this list is analog LinkedList<t> in System.Collection.Generic
+
+it contais all

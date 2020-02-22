@@ -1,0 +1,5 @@
+overloads:
+void AddLast(MyLinkedListNode<T> value)
+void AddLast(<T> value)
+
+Add value to begin of list
